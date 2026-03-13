@@ -4,6 +4,7 @@ dist/
 
 # Data files
 data/
+patches/
 *.MPQ
 *.mpq
 
